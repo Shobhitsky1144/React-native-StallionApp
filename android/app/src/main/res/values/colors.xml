@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#00161E</color>
+     <color name="status_bar_color">#00161E</color>
+<!-- <color name="gradientstart">#888888</color>
+<color name="gradientend">#111111</color> -->
+</resources>
